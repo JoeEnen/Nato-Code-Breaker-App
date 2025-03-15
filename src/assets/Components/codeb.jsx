@@ -1,6 +1,6 @@
 import React, { useState } from "react";
 import "./codeb.css";
-import Nato from "../nato.webp";
+import Noto from "../noto.jpg";
 import Bina from "../binary.jpg";
 
 const natoAlphabet = {
@@ -88,7 +88,7 @@ const NatoPhonetic = () => {
     <div className="main">
       <div className="natoContainer">
         <div className="imgContainer">
-          <img src={Nato} alt="natolog" />
+          <img src={Noto} alt="natolog" />
         </div>
         <div className="natoMiniCont">
           <h1>NATO Phonetic Alphabet Breaker</h1>
