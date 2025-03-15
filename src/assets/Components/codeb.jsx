@@ -91,7 +91,7 @@ const NatoPhonetic = () => {
           <img src={Nato} alt="natolog" />
         </div>
         <div className="natoMiniCont">
-        <h1>NATO Phonetic Alphabet Breaker</h1>
+          <h1>NATO Phonetic Alphabet Breaker</h1>
           <input
             type="text"
             className="natoInput"
@@ -100,7 +100,7 @@ const NatoPhonetic = () => {
             onChange={(e) => setInputText(e.target.value)}
           />
         </div>
-          
+
         <div className="imgContainer">
           <img src={Bina} alt="binaryimg" />
         </div>

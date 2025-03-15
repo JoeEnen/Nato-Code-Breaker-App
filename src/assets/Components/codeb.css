@@ -3,7 +3,7 @@
     margin: 0;
 }
 .main {
-    background-color: #87b697;
+    background-color: rgba(225,215,152,.1);
 }
 
 .natoContainer {
@@ -11,18 +11,18 @@
    justify-content: space-between;
    align-items: center;
    padding: 3rem 2rem;
-   background-color: rgb(109, 204, 183);
+   
+   background-color: #424756;
   }
   .natoMiniCont {
     text-align: center;
     padding: 2rem 2rem;
     font-family: Arial, sans-serif;
-    
-    text-transform: uppercase;
+        text-transform: uppercase;
   }
 .imgContainer {
-    max-width: 30rem;
-    height: 25rem;
+    max-width: 28rem;
+    height: 24rem;
     
 }
 .imgContainer img {
@@ -36,7 +36,7 @@
   
   .natoInput {
     width: 80%;
-    max-width: 800px;
+    max-width: 80rem;
     padding: 1rem;
     margin: 10px 0;
     font-size: 2rem;
@@ -45,7 +45,7 @@
   }
   
   .natoOutput {
-    margin-top: 20px;
+    margin-top: 2rem;
     padding: 1rem;
        text-align: center;
     font-size: 2rem;
