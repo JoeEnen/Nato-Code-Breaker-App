@@ -3,6 +3,7 @@
  https://nato-code-breaker-app.vercel.app/
  
  🛠 About the Project
+ 
 The NATO Phonetic Alphabet Code Breaker is a simple web app that instantly translates words into their NATO phonetic equivalents. This is useful for radio communication, security, and learning phonetics.
 
 🔹 Live Demo: NATO Code Breaker App
