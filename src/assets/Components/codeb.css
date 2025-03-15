@@ -4,6 +4,7 @@
 }
 .main {
     background-color: rgba(225,215,152,.1);
+    height: 100vh;
 }
 
 .natoContainer {
@@ -62,5 +63,15 @@
   }
 
   .natoOutput p {
-    padding: 5rem;
+    padding: 5rem 2rem;
   }
+
+  .hearts {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    background-color:antiquewhite;
+    margin: 0;
+    padding: 0.1rem 2rem;
+}
+.hearts {
+    font-size: .5rem;
+}
