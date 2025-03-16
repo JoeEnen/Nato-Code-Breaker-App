@@ -92,7 +92,7 @@ const NatoPhonetic = () => {
           <img src={Noto} alt="natolog" />
         </div>
         <div className="natoMiniCont">
-          <h1>NATO Phonetic Alphabet Breaker</h1>
+          <h1>NATO Phonetic Alphabet Code Breaker</h1>
           <input
             type="text"
             className="natoInput"
